@@ -1,3 +1,6 @@
+#features{
+    text-align: center;
+}
 #title{
     background-color: #ff4c68;
     color: white;
@@ -40,4 +43,16 @@ body{
 .image-class{
     width: 60%;
     transform: rotate(25deg);
+}
+/* features section */
+.features-bold{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.features-icon{
+    color:#ef8172;
+}
+.features-icon:hover{
+    color: #ff4c68;
 }
