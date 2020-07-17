@@ -79,4 +79,6 @@ body{
 }
 .round-testimonial-image{
     border-radius: 100%;
+    width: 10%;
+    margin: 20px;
 }
