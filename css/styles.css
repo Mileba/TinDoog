@@ -15,6 +15,16 @@ h1{
     font-size: 3rem;
     line-height: 1.5;
 }
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    list-style: 1.5;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+}
 body{
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
@@ -66,4 +76,7 @@ body{
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+.round-testimonial-image{
+    border-radius: 100%;
 }
