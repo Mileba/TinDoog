@@ -1,5 +1,6 @@
 #features{
     text-align: center;
+    padding: 7% 15%;
 }
 #title{
     background-color: #ff4c68;
@@ -55,4 +56,14 @@ body{
 }
 .features-icon:hover{
     color: #ff4c68;
+}
+.features-light{
+    color: #8f8f8f;
+}
+/* Testimonials */
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
 }
