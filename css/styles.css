@@ -116,3 +116,14 @@ body{
         transform: rotate(0);
     }
 }
+/* Call to action */
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    font-weight: 900;
+    padding: 3% 5%;
+}
+#footer{
+    text-align: center;
+}
