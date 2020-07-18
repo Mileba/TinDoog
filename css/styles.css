@@ -1,13 +1,15 @@
 #features{
-    text-align: center;
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;   
+    text-align: center;
 }
 #title{
     background-color: #ff4c68;
     color: white;
 }
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 h1{
     font-family: "Montserrat", sans-serif;
@@ -54,6 +56,8 @@ body{
 .image-class{
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+    right:  30%;
 }
 /* features section */
 .features-bold{
@@ -92,4 +96,23 @@ body{
 }
 .carousel-item{
     padding: 7% 15%;
+}
+/* Pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 5%;
+}
+
+@media (max-width:1028px) {
+    #title{
+        text-align: center;
+    }
+
+    .image-class{
+        position: static;
+        transform: rotate(0);
+    }
 }
