@@ -8,4 +8,4 @@ This app was built with
 - CSS 3 
 - BootStrap 4 
 
-You can view the completed project [here](mileba.github.io/TinDoog)
+You can view the completed project [here](https://mileba.github.io/TinDoog)
